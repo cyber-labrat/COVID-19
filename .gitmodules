@@ -1,0 +1,4 @@
+[submodule "covid-19-india"]
+	path = covid-19-india
+	url = https://github.com/TestToJava/covid-19-india.git
+	branch = master
