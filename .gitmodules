@@ -2,3 +2,54 @@
 	path = covid-19-india
 	url = https://github.com/TestToJava/covid-19-india.git
 	branch = master
+[submodule "covid_rates_per_capita"]
+	path = covid_rates_per_capita
+	url = https://github.com/silverdrake11/covid_rates_per_capita.git
+	branch = master
+[submodule "COVID-19-uscovid19.org"]
+	path = COVID-19-uscovid19.org
+	url = https://github.com/davidjayjackson/COVID-19-uscovid19.org.git
+	branch = master
+[submodule "COVID19-L3-Net-APP"]
+	path = COVID19-L3-Net-APP
+	url = https://github.com/UBC-CIC/COVID19-L3-Net-APP.git
+	branch = master
+[submodule "covid_19"]
+	path = covid_19
+	url = https://github.com/openZH/covid_19.git
+	branch = master
+[submodule "viz-covid19-visualisation"]
+	path = viz-covid19-visualisation
+	url = https://github.com/OCHA-DAP/viz-covid19-visualisation.git
+	branch = master
+[submodule "hdx-scraper-covid-viz"]
+	path = hdx-scraper-covid-viz
+	url = https://github.com/OCHA-DAP/hdx-scraper-covid-viz.git
+	branch = master
+[submodule "tx-covid-vaccine-data"]
+	path = tx-covid-vaccine-data
+	url = https://github.com/rdmurphy/tx-covid-vaccine-data.git
+	branch = main
+[submodule "covid19-data"]
+	path = covid19-data
+	url = https://github.com/OCHA-DAP/covid19-data.git
+	branch = main
+[submodule "covid19-philadelphia"]
+	path = covid19-philadelphia
+	url = https://github.com/ambientpointcorp/covid19-philadelphia.git
+	branch = master
+[submodule "COVID-19"]
+	path = COVID-19
+	url = https://github.com/CSSEGISandData/COVID-19.git
+	branch = master
+[submodule "covid-charts"]
+	path = covid-charts
+	url = https://github.com/amcharts/covid-charts.git
+	branch = master
+[submodule "COVID_vis"]
+	path = COVID_vis
+	url = https://github.com/jeffmacinnes/COVID_vis.git
+	branch = master
+[submodule "covid19-eu-data"]
+	path = covid19-eu-data
+	url = https://github.com/covid19-eu-zh/covid19-eu-data.git
